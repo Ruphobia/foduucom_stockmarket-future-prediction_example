@@ -8,7 +8,9 @@ This repository contains large data samples managed with Git Large File Storage 
 
 * Install Git LFS:
    sudo apt-get update
+  
    sudo apt-get install -y git-lfs
+  
    git lfs install 
 
 * Clone the Repository:
